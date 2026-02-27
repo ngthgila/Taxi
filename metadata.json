@@ -1,0 +1,5 @@
+{
+  "name": "TaxiLedger",
+  "description": "Ứng dụng ghi chép doanh thu, chi phí và ghi chú hàng ngày cho kinh doanh taxi.",
+  "requestFramePermissions": []
+}
